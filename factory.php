@@ -3,7 +3,7 @@
 namespace Kulinicz\FactoryMethod\Conceptual;
 
 /**
- * Conceptual code example for interview 
+ * Conceptual code example created after last interview 
  * The calculator class calculates the distance between two points on Earth
  * to demonstrate knowledge about different design patterns
  *
