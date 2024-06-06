@@ -3,7 +3,7 @@
 namespace Kulinicz\FactoryMethod\Conceptual;
 
 /**
- * Conceptual code example for interview P&G
+ * Conceptual code example for interview 
  * The calculator class calculates the distance between two points on Earth
  * to demonstrate knowledge about different design patterns
  *
